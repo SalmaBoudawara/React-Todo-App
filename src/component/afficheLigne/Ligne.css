@@ -1,0 +1,19 @@
+.ligne{
+    display:flex;
+    align-items: center;
+}
+ .ligne button{
+    width:90px;
+    height: 40px;
+    border-radius: 1px;
+    color:#838283;
+    background-color: transparent;
+    margin-right: 20px;
+}
+ .ligne p{
+    color:#838283;
+    font-size: 18px;
+}
+.phras{
+text-decoration: line-through;
+}

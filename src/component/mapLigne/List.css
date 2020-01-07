@@ -1,0 +1,28 @@
+.affichage{
+    margin-top: 0px;
+     background-color:#F5F5F5;
+     height: 600px;
+     /* border:solid; */
+ }
+ .phrase{
+     color:#898889;
+     display: flex;
+     justify-content: center;
+     padding-top: 70px ;
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: 500;
+     border-bottom:1px solid black;
+     margin-left: 550px;
+     margin-right:550px ;
+     padding-bottom:50px ;
+     margin-bottom: 70px;
+ 
+     /* border: solid; */
+ }
+ .list{
+    
+     width:300px;
+     align-items: center;
+     margin-left:200px;
+ }
